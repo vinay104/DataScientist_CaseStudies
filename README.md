@@ -1,4 +1,4 @@
-# ABAX_Assignment_DataScientist
+# DataScientist Case Studies 
 Project 1: Electricity Load Forecasting using a dataset from American Electric Power (AEP)
 Project 2: Inbred Line Genomic Prediction Pipeline
 
